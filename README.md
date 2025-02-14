@@ -19,8 +19,6 @@
 - 📫 **Email**: [turnerbst03@gmail.com](mailto:YourEmail@example.com)  
 - 💼 **LinkedIn**: [www.linkedin.com/in/blake-turner-33b50b337](#)
 
-⚡ **Fun Fact:** I enjoy exploring the intersection of **art and technology**, whether it’s **coding an app or filming a story**!  
-
 <!--
 **blakesullivan03/blakesullivan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
