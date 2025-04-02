@@ -4,7 +4,7 @@
 
 ### About Me  
 - 🎓 Completing a B.S. in Computer Science at the University of South Carolina
-- 🔭 I’m currently developing **SkillScout**, a job search and career development platform using the MERN stack.  
+- 🔭 Currently Developing **SkillScout**, a job search and career development platform using the MERN stack.  
 - 💻 Experienced in **JavaScript, Python, HTML, Git, React, Node.js, MongoDB, .NET, and C#**.  
 - 🎥 Passionate about blending **Technology and Storytelling**.
 - 📍 Based in **South Carolina**.  
