@@ -3,11 +3,10 @@
 🚀 **Software Engineer | Media Creative | Team Lead**  
 
 ### About Me  
-- 🎓 Pursuing a B.S. in Computer Science at the University of South Carolina
-- 🔭 I’m currently working on **SkillScout**, a job search and career development platform using the MERN stack.  
-- 🎬 I'm also producing a **promotional video** for the **University of South Carolina's Studio Art Department** through my company, **Carolina Sky Studios**.  
-- 💻 I have experience in **JavaScript, Python, HTML, Git, React, Node.js, MongoDB, .NET, and C#**.  
-- 🎥 Passionate about blending **technology and storytelling**, whether in web development or filmmaking.  
+- 🎓 Completing a B.S. in Computer Science at the University of South Carolina
+- 🔭 I’m currently developing **SkillScout**, a job search and career development platform using the MERN stack.  
+- 💻 Experienced in **JavaScript, Python, HTML, Git, React, Node.js, MongoDB, .NET, and C#**.  
+- 🎥 Passionate about blending **Technology and Storytelling**.
 - 📍 Based in **South Carolina**.  
 
 ### Projects  
@@ -17,7 +16,6 @@
 
 ### Let's Connect!  
 - 📫 **Email**: [turnerbst03@gmail.com](mailto:YourEmail@example.com)  
-- 💼 **LinkedIn**: [www.linkedin.com/in/blake-turner-33b50b337](#)
 
 <!--
 **blakesullivan03/blakesullivan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
